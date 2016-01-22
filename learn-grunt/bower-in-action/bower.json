@@ -1,0 +1,21 @@
+{
+  "name": "bower-in-action",
+  "homepage": "https://github.com/githubxiaowen/Workspace",
+  "authors": [
+    "githubxiaowen <githubxiaowen@gmail.com>"
+  ],
+  "description": "init project using bower",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true
+}
